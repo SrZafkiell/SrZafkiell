@@ -3,9 +3,9 @@ I am a student studying software analysis and development. I am always eager to 
 
 You can find me on: [Linkedin](https://www.linkedin.com/in/srzafkiell/),  [GitHub](https://github.com/SrZafkiell)
 
-🌱 **I'm currently learning**: Java and proper Javadocs doccumentation.
-🚀 **My last ongoing projects are**: [DentistOffice (Standalone)](), [SimpleRespawns (Minecraft Plugin)]()
-⭐ **My finished projects are**: Null
+🌱 **I'm currently learning**: Java and proper Javadocs doccumentation. <br>
+🚀 **My last ongoing projects are**: [DentistOffice (Standalone)](https://github.com/SrZafkiell/DentistOffice), [SimpleRespawns (Minecraft Plugin)](https://github.com/SrZafkiell/SimpleSpawnpoints) <br>
+⭐ **My finished projects are**: Null <br>
 🎮 **My practice repositories**: [Amcham final challenge](https://github.com/SrZafkiell/amchan-final), [Amcham E-Commerce practice](https://github.com/SrZafkiell/Open_E-Commerce_CMS-Demo), [Python exercises](https://github.com/SrZafkiell/Python-First-Semester). And more to come!
 
 >**What is programming?**
@@ -13,6 +13,7 @@ You can find me on: [Linkedin](https://www.linkedin.com/in/srzafkiell/),  [GitHu
 >Practice is when you don’t know anything, yet everything works.
 >In Programming we combine theory and practice; nothing works and we don’t know why.
 
+**Status**: *In my journey to become someone* <br>
 *Last update: 07/03/2024*
 
 <!--
