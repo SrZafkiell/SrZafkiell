@@ -15,7 +15,7 @@ You can find me on: [Linkedin](https://www.linkedin.com/in/srzafkiell/),  [GitHu
 >In Programming we combine theory and practice; nothing works and we don’t know why.
 
 **Status**: *In my journey to become someone* <br>
-*Last update: 07/03/2024*
+*Last update: 09/March/2024*
 
 <!--
 **SrZafkiell/SrZafkiell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
