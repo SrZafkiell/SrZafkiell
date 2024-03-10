@@ -5,7 +5,8 @@ You can find me on: [Linkedin](https://www.linkedin.com/in/srzafkiell/),  [GitHu
 
 🌱 **I'm currently learning**: Java and proper Javadocs doccumentation. <br>
 🚀 **My last ongoing projects are**: [DentistOffice (Standalone)](https://github.com/SrZafkiell/DentistOffice), [SimpleRespawns (Minecraft Plugin)](https://github.com/SrZafkiell/SimpleSpawnpoints) <br>
-⭐ **My finished projects are**: Null <br>
+⭐ **My finished big projects are**: Null <br>
+⚡ **My finished practice projects are**: [JavaCalculator](https://github.com/SrZafkiell/JavaCalculator) <br>
 🎮 **My practice repositories**: [Amcham final challenge](https://github.com/SrZafkiell/amchan-final), [Amcham E-Commerce practice](https://github.com/SrZafkiell/Open_E-Commerce_CMS-Demo), [Python exercises](https://github.com/SrZafkiell/Python-First-Semester), [Python Practice Project](https://github.com/SrZafkiell/ProyectoFAP), [JavaScript Challenge #2](https://github.com/SrZafkiell/Desafio2Bit), [First Discord Bot Practice (Using Twitch API)](https://github.com/SrZafkiell/ParadoxUtilities-Discord-Bot), [LoNHelper (Discord bot)](https://github.com/SrZafkiell/LoNHelper), [First HTML/CSS Exercise](https://github.com/SrZafkiell/FirstHtmAndCssExercise), [First Responsive Exercise](https://github.com/SrZafkiell/FirstResponsiveExercise), [First Landing-Page Exercise](https://github.com/SrZafkiell/FirstLPExercise). And more to come!
 
 >**What is programming?**
