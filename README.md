@@ -14,8 +14,10 @@ You can find me on: [Linkedin](https://www.linkedin.com/in/srzafkiell/),  [GitHu
 >Practice is when you don’t know anything, yet everything works.
 >In Programming we combine theory and practice; nothing works and we don’t know why.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srzafkiell&layout=compact)
+
 **Status**: *In my journey to become someone* <br>
-*Last update: 27/November/2025*
+*Last update: 16/March/2026*
 
 <!--
 **SrZafkiell/SrZafkiell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
