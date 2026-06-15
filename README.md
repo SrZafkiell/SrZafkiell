@@ -7,20 +7,41 @@ I design and run the infrastructure behind production platforms: AWS and on‑pr
 🌐 **Portfolio:** [srzafkiell.dev](https://srzafkiell.dev) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/srzafkiell/) &nbsp;·&nbsp; ✉️ contact@srzafkiell.dev
 
 ### ⚙️ What I work with
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+
+**☁️ Cloud & Infrastructure**<br>
+![AWS](https://img.shields.io/badge/AWS-1b1530?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1b1530?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![Linux](https://img.shields.io/badge/Linux-1b1530?style=flat-square&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-1b1530?style=flat-square&logo=docker&logoColor=2496ED)
 ![Nginx](https://img.shields.io/badge/Nginx-1b1530?style=flat-square&logo=nginx&logoColor=009639)
+![Docker](https://img.shields.io/badge/Docker-1b1530?style=flat-square&logo=docker&logoColor=2496ED)
 ![MikroTik](https://img.shields.io/badge/MikroTik-1b1530?style=flat-square&logo=mikrotik&logoColor=A2C9EA)
+
+**💻 Languages**<br>
 ![Python](https://img.shields.io/badge/Python-1b1530?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-1b1530?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-1b1530?style=flat-square&logo=openjdk&logoColor=FFFFFF)
+![Bash](https://img.shields.io/badge/Bash-1b1530?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![PowerShell](https://img.shields.io/badge/PowerShell-1b1530?style=flat-square&logo=powershell&logoColor=5391FE)
+
+**🧩 Backend & Data**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-1b1530?style=flat-square&logo=fastapi&logoColor=009688)
 ![Node.js](https://img.shields.io/badge/Node.js-1b1530?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-1b1530?style=flat-square&logo=express&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1b1530?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-1b1530?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
 ![Redis](https://img.shields.io/badge/Redis-1b1530?style=flat-square&logo=redis&logoColor=FF4438)
-![n8n](https://img.shields.io/badge/n8n-1b1530?style=flat-square&logo=n8n&logoColor=EA4B71)
+
+**🔧 DevOps & Automation**<br>
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1b1530?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Bash](https://img.shields.io/badge/Bash-1b1530?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-1b1530?style=flat-square&logo=azuredevops&logoColor=0078D7)
+![n8n](https://img.shields.io/badge/n8n-1b1530?style=flat-square&logo=n8n&logoColor=EA4B71)
+![Git](https://img.shields.io/badge/Git-1b1530?style=flat-square&logo=git&logoColor=F05032)
+
+**🎨 Frontend**<br>
 ![React](https://img.shields.io/badge/React-1b1530?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-1b1530?style=flat-square&logo=vite&logoColor=646CFF)
+![HTML5](https://img.shields.io/badge/HTML5-1b1530?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1b1530?style=flat-square&logo=css3&logoColor=1572B6)
 
 ### 🚀 Currently
 - 🛠️ **Technical Lead / System Architect @ World Engineering Corp** — designing and operating cloud + on‑prem infrastructure
@@ -46,7 +67,7 @@ I design and run the infrastructure behind production platforms: AWS and on‑pr
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srzafkiell&layout=compact&hide_border=true&bg_color=0d0a16&title_color=a371f7&text_color=ece7f6)
 
 ---
-*Cloud + on‑prem · backend · automation — always shipping.*
+*Cloud + on‑prem · backend · automation — always shipping.*<br><br>
 **Status**: *In my journey to become someone* <br>
 *Last update: 15/June/2026*
 
