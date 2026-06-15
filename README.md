@@ -14,6 +14,7 @@ I design and run the infrastructure behind production platforms: AWS and on‑pr
 ![Linux](https://img.shields.io/badge/Linux-1b1530?style=flat-square&logo=linux&logoColor=FCC624)
 ![Nginx](https://img.shields.io/badge/Nginx-1b1530?style=flat-square&logo=nginx&logoColor=009639)
 ![Docker](https://img.shields.io/badge/Docker-1b1530?style=flat-square&logo=docker&logoColor=2496ED)
+![Proxmox](https://img.shields.io/badge/Proxmox-1b1530?style=flat-square&logo=proxmox&logoColor=E57000)
 ![MikroTik](https://img.shields.io/badge/MikroTik-1b1530?style=flat-square&logo=mikrotik&logoColor=A2C9EA)
 
 **💻 Languages**<br>
@@ -35,7 +36,10 @@ I design and run the infrastructure behind production platforms: AWS and on‑pr
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1b1530?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-1b1530?style=flat-square&logo=azuredevops&logoColor=0078D7)
 ![n8n](https://img.shields.io/badge/n8n-1b1530?style=flat-square&logo=n8n&logoColor=EA4B71)
+![Mattermost](https://img.shields.io/badge/Mattermost-1b1530?style=flat-square&logo=mattermost&logoColor=0058CC)
+![ClickUp](https://img.shields.io/badge/ClickUp-1b1530?style=flat-square&logo=clickup&logoColor=7B68EE)
 ![Git](https://img.shields.io/badge/Git-1b1530?style=flat-square&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-1b1530?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
 **🎨 Frontend**<br>
 ![React](https://img.shields.io/badge/React-1b1530?style=flat-square&logo=react&logoColor=61DAFB)
@@ -46,7 +50,7 @@ I design and run the infrastructure behind production platforms: AWS and on‑pr
 ### 🚀 Currently
 - 🛠️ **Technical Lead / System Architect @ World Engineering Corp** — designing and operating cloud + on‑prem infrastructure
 - 🔭 Building & maintaining [`scoutsuite-runner`](https://github.com/SrZafkiell/scoutsuite-runner) (Dockerized AWS security audits) and a few internal tools
-- 🌱 Going deeper on cloud security, infrastructure automation, and clean documentation
+- 🌱 Going deeper on cloud security and infrastructure automation — next up: observability with **Prometheus**
 - ✍️ Writing about real infra & automation work over at [srzafkiell.dev](https://srzafkiell.dev)
 
 ### 📌 Selected work
