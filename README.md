@@ -65,6 +65,17 @@ Open to remote full-time and contract roles.
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-1b1530?style=flat-square)
 ![Semgrep](https://img.shields.io/badge/Semgrep-1b1530?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-1b1530?style=flat-square&logo=n8n&logoColor=EA4B71)
+**Security & Quality**<br>
+![Semgrep (OWASP)](https://img.shields.io/badge/Semgrep%20%28OWASP%29-1b1530?style=flat-square&logo=owasp&logoColor=FFFFFF)
+![Trivy](https://img.shields.io/badge/Trivy-1b1530?style=flat-square&logo=trivy&logoColor=FFFFFF)
+![Dependabot](https://img.shields.io/badge/Dependabot-1b1530?style=flat-square&logo=dependabot&logoColor=FFFFFF)
+![pytest](https://img.shields.io/badge/pytest-1b1530?style=flat-square&logo=pytest&logoColor=0A9EDC)
+![Playwright](https://img.shields.io/badge/Playwright-1b1530?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-1b1530?style=flat-square&logo=postman&logoColor=FF6C37)
+![Ruff](https://img.shields.io/badge/Ruff-1b1530?style=flat-square&logo=ruff&logoColor=D7FF64)
+![mypy](https://img.shields.io/badge/mypy-1b1530?style=flat-square)
+![ESLint](https://img.shields.io/badge/ESLint-1b1530?style=flat-square&logo=eslint&logoColor=8080F2)
+![Prettier](https://img.shields.io/badge/Prettier-1b1530?style=flat-square&logo=prettier&logoColor=F7B93E)
 
 **AI-Assisted Development** (used daily; I keep up with new models)<br>
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-1b1530?style=flat-square&logo=claude&logoColor=D97757)
