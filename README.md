@@ -1,91 +1,96 @@
-# Hi, I'm Alejandro 👋
+<a href="https://srzafkiell.dev"><img src="assets/srzafkiell-dev-preview.png" alt="Preview of srzafkiell.dev: Daniel Alejandro Ceron Rayo, Software Engineer for Backend, Cloud Infrastructure and DevOps" width="100%"></a>
 
-**Software & Infrastructure Engineer** — backend, cloud + on‑prem infrastructure, DevOps, and the automation that ties it all together. Based in Cali, Colombia 🇨🇴
+<p align="center"><sub>A preview of my portfolio, <a href="https://srzafkiell.dev">srzafkiell.dev</a>. Click the image to open it.</sub></p>
 
-I design and run the infrastructure behind production platforms: AWS and on‑prem servers, networking and firewalls (MikroTik), backend services, and CI/CD. I like turning messy operations into systems that just work — and keeping them documented, observable, and boring in the best way.
+# Hi, I'm Alejandro
 
-🌐 **Portfolio:** [srzafkiell.dev](https://srzafkiell.dev) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/srzafkiell/) &nbsp;·&nbsp; ✉️ contact@srzafkiell.dev
+**Software Engineer | Backend, Cloud Infrastructure & DevOps.** Based in Cali, Colombia (UTC-5), working remotely.
 
-### ⚙️ What I work with
+**I speak Spanish (native) and English (C1).** This profile is in English; for the Spanish version, see my [LinkedIn](https://www.linkedin.com/in/srzafkiell/?locale=es-ES).
 
-**☁️ Cloud & Infrastructure**<br>
-![AWS](https://img.shields.io/badge/AWS-1b1530?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-1b1530?style=flat-square&logo=cloudflare&logoColor=F38020)
-![Linux](https://img.shields.io/badge/Linux-1b1530?style=flat-square&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/Nginx-1b1530?style=flat-square&logo=nginx&logoColor=009639)
-![Docker](https://img.shields.io/badge/Docker-1b1530?style=flat-square&logo=docker&logoColor=2496ED)
-![Proxmox](https://img.shields.io/badge/Proxmox-1b1530?style=flat-square&logo=proxmox&logoColor=E57000)
-![MikroTik](https://img.shields.io/badge/MikroTik-1b1530?style=flat-square&logo=mikrotik&logoColor=A2C9EA)
+I design and run the infrastructure behind production platforms, from architecture and API contracts down to networking: AWS, Amazon EKS, Azure, and on-prem Windows and Linux. 7+ years across backend, cloud architecture and DevOps, working end to end in Python, FastAPI, Django, PostgreSQL, SQL Server, Redis and Docker, from API design through CI/CD, monitoring and disaster recovery.
 
-**💻 Languages**<br>
+**Portfolio:** [srzafkiell.dev](https://srzafkiell.dev) | **LinkedIn:** [in/srzafkiell](https://www.linkedin.com/in/srzafkiell/) | **Email:** [contact@srzafkiell.dev](mailto:contact@srzafkiell.dev)
+
+Open to remote full-time and contract roles.
+
+### Right now
+
+- **Technical Lead / System Architect at World Engineering Corp** (since Jun 2026, promoted from Backend Developer in six months). I own the architecture, API contracts and releases of a multi-tenant SaaS of nine FastAPI services on AWS (ECS Fargate, Cognito, SQS, CloudFront, PostgreSQL per service), and wrote the team's 53 architecture decision records and 27 runbooks, enforced in GitHub Actions with AI code review (PR-Agent), Semgrep and OIDC deploys.
+- **Junior Cloud Infrastructure Analyst at Magnetic** (since Sep 2026, after a six-month apprenticeship). I run over $13,000 per month of AWS across nine accounts, operate Amazon EKS in production, and lead a 5 TB MySQL cleanup projected to save $1,450 to $1,750 per month.
+- **Software Engineer / Platform Engineer at CheckPoint Business Intelligence** (since Sep 2025). Lead engineer of a multi-tenant access-control SaaS (FastAPI, SQL Server, React; 1,100+ commits): RFID ingestion at about 3,900 reads per second, live camera monitoring, Prometheus, Alertmanager and Grafana monitoring, a three-node MongoDB replica set, a Redis Cluster grown from 3 to 6 nodes, and a hybrid disaster-recovery design with an Azure warm standby.
+
+### Tech stack
+
+**Languages**<br>
 ![Python](https://img.shields.io/badge/Python-1b1530?style=flat-square&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1b1530?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1b1530?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-1b1530?style=flat-square&logo=openjdk&logoColor=FFFFFF)
+![C# / .NET](https://img.shields.io/badge/C%23%20%2F%20.NET-1b1530?style=flat-square&logo=dotnet&logoColor=A179DC)
+![SQL](https://img.shields.io/badge/SQL-1b1530?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-1b1530?style=flat-square&logo=gnubash&logoColor=4EAA25)
-![PowerShell](https://img.shields.io/badge/PowerShell-1b1530?style=flat-square&logo=powershell&logoColor=5391FE)
+![PowerShell](https://img.shields.io/badge/PowerShell-1b1530?style=flat-square)
+![Java](https://img.shields.io/badge/Java-1b1530?style=flat-square&logo=openjdk&logoColor=FFFFFF)
 
-**🧩 Backend & Data**<br>
+**Backend & Data**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-1b1530?style=flat-square&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/Django-1b1530?style=flat-square&logo=django&logoColor=44B78B)
+![Celery](https://img.shields.io/badge/Celery-1b1530?style=flat-square&logo=celery&logoColor=37814A)
 ![Node.js](https://img.shields.io/badge/Node.js-1b1530?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 ![Express](https://img.shields.io/badge/Express-1b1530?style=flat-square&logo=express&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1b1530?style=flat-square&logo=postgresql&logoColor=4169E1)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-1b1530?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-1b1530?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-1b1530?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-1b1530?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/Redis-1b1530?style=flat-square&logo=redis&logoColor=FF4438)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-1b1530?style=flat-square)
 
-**🔧 DevOps & Automation**<br>
+**Cloud & Infrastructure**<br>
+![AWS](https://img.shields.io/badge/AWS-1b1530?style=flat-square)
+![Kubernetes (EKS)](https://img.shields.io/badge/Kubernetes%20%28EKS%29-1b1530?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Docker](https://img.shields.io/badge/Docker-1b1530?style=flat-square&logo=docker&logoColor=2496ED)
+![Azure](https://img.shields.io/badge/Azure-1b1530?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-1b1530?style=flat-square&logo=linux&logoColor=FCC624)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-1b1530?style=flat-square)
+![Nginx](https://img.shields.io/badge/Nginx-1b1530?style=flat-square&logo=nginx&logoColor=009639)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1b1530?style=flat-square&logo=cloudflare&logoColor=F38020)
+![MikroTik](https://img.shields.io/badge/MikroTik-1b1530?style=flat-square&logo=mikrotik&logoColor=A2C9EA)
+![Proxmox](https://img.shields.io/badge/Proxmox-1b1530?style=flat-square&logo=proxmox&logoColor=E57000)
+
+**DevOps & Observability**<br>
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1b1530?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-1b1530?style=flat-square&logo=azuredevops&logoColor=0078D7)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-1b1530?style=flat-square)
+![Prometheus](https://img.shields.io/badge/Prometheus-1b1530?style=flat-square&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/Grafana-1b1530?style=flat-square&logo=grafana&logoColor=F46800)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-1b1530?style=flat-square)
+![Semgrep](https://img.shields.io/badge/Semgrep-1b1530?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-1b1530?style=flat-square&logo=n8n&logoColor=EA4B71)
-![Mattermost](https://img.shields.io/badge/Mattermost-1b1530?style=flat-square&logo=mattermost&logoColor=0058CC)
-![ClickUp](https://img.shields.io/badge/ClickUp-1b1530?style=flat-square&logo=clickup&logoColor=7B68EE)
-![Git](https://img.shields.io/badge/Git-1b1530?style=flat-square&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS%20Code-1b1530?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
-**🎨 Frontend**<br>
+**AI-Assisted Development** (used daily; I keep up with new models)<br>
+![Claude Code](https://img.shields.io/badge/Claude%20Code-1b1530?style=flat-square&logo=claude&logoColor=D97757)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-1b1530?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-1b1530?style=flat-square&logo=githubcopilot&logoColor=FFFFFF)
+![Cursor](https://img.shields.io/badge/Cursor-1b1530?style=flat-square&logo=cursor&logoColor=FFFFFF)
+![Gemini](https://img.shields.io/badge/Gemini-1b1530?style=flat-square&logo=googlegemini&logoColor=8E75B2)
+![Grok](https://img.shields.io/badge/Grok-1b1530?style=flat-square)
+
+**Frontend & Integrations**<br>
 ![React](https://img.shields.io/badge/React-1b1530?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-1b1530?style=flat-square&logo=vite&logoColor=646CFF)
-![HTML5](https://img.shields.io/badge/HTML5-1b1530?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1b1530?style=flat-square&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1b1530?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Stripe](https://img.shields.io/badge/Stripe-1b1530?style=flat-square&logo=stripe&logoColor=635BFF)
+![Twilio](https://img.shields.io/badge/Twilio-1b1530?style=flat-square)
+![SendGrid](https://img.shields.io/badge/SendGrid-1b1530?style=flat-square)
+![LiveKit](https://img.shields.io/badge/LiveKit-1b1530?style=flat-square&logo=livekit&logoColor=FFFFFF)
+![ClickUp](https://img.shields.io/badge/ClickUp-1b1530?style=flat-square&logo=clickup&logoColor=7B68EE)
+![Mattermost](https://img.shields.io/badge/Mattermost-1b1530?style=flat-square&logo=mattermost&logoColor=0058CC)
 
-### 🚀 Currently
-- 🛠️ **Technical Lead / System Architect @ World Engineering Corp** — designing and operating cloud + on‑prem infrastructure
-- 🔭 Building & maintaining [`scoutsuite-runner`](https://github.com/SrZafkiell/scoutsuite-runner) (Dockerized AWS security audits) and a few internal tools
-- 🌱 Going deeper on cloud security and infrastructure automation — next up: observability with **Prometheus**
-- ✍️ Writing about real infra & automation work over at [srzafkiell.dev](https://srzafkiell.dev)
+### Selected public work
 
-### 📌 Selected work
-- [**scoutsuite-runner**](https://github.com/SrZafkiell/scoutsuite-runner) — reusable Docker runner for AWS security audits (NCC Group ScoutSuite) with isolated, read‑only credentials and CSV / Markdown / JSON / HTML reports
-- [**srzafkiell.dev**](https://srzafkiell.dev) — my terminal‑themed portfolio (React + Vite), built and deployed to my own VPS via GitHub Actions
-- [**DentistOffice**](https://github.com/SrZafkiell/DentistOffice) — dental practice management system (Java)
-- [**SimpleSpawnpoints**](https://github.com/SrZafkiell/SimpleSpawnpoints) — Minecraft respawn‑management plugin (Java)
-- [**WEC Backend Challenge**](https://github.com/SrZafkiell/wec-backend-technical-challenge) — backend technical‑challenge solution
-- …plus a trail of practice repos from the journey 🧪
+- **[scoutsuite-runner](https://github.com/SrZafkiell/scoutsuite-runner)**: reusable Docker runner for NCC Group ScoutSuite AWS security audits, with isolated read-only credentials and CSV, Markdown, JSON and HTML reports.
+- **[srzafkiell.dev](https://srzafkiell.dev)**: my terminal-themed portfolio (React + Vite), built and deployed to my own VPS with GitHub Actions.
+- **[wec-backend-technical-challenge](https://github.com/SrZafkiell/wec-backend-technical-challenge)**: my solution to the backend developer technical challenge at WEC (Python).
+- **[DentistOffice](https://github.com/SrZafkiell/DentistOffice)**: dental practice management system (Java).
+- **[SimpleSpawnpoints](https://github.com/SrZafkiell/SimpleSpawnpoints)**: Minecraft respawn-management plugin (Java).
 
-> **What is programming?**
-> Theory is when you know everything, but nothing works.
-> Practice is when you don't know anything, yet everything works.
-> In programming, we combine the two: nothing works, and we don't know why.
-
-### 📊 GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=srzafkiell&show_icons=true&hide_border=true&bg_color=0d0a16&title_color=a371f7&text_color=ece7f6&icon_color=e879f9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srzafkiell&layout=compact&hide_border=true&bg_color=0d0a16&title_color=a371f7&text_color=ece7f6)
-
----
-*Cloud + on‑prem · backend · automation — always shipping.*<br><br>
-**Status**: *In my journey to become someone* <br>
-*Last update: 15/June/2026*
-
-<!--
-**SrZafkiell/SrZafkiell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my professional work lives in private company repositories, so little of it shows in the public activity here. My [portfolio](https://srzafkiell.dev) and [LinkedIn](https://www.linkedin.com/in/srzafkiell/) have the full picture.
