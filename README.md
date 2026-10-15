@@ -63,8 +63,8 @@ Open to remote full-time and contract roles.
 ![Prometheus](https://img.shields.io/badge/Prometheus-1b1530?style=flat-square&logo=prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/Grafana-1b1530?style=flat-square&logo=grafana&logoColor=F46800)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-1b1530?style=flat-square)
-![Semgrep](https://img.shields.io/badge/Semgrep-1b1530?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-1b1530?style=flat-square&logo=n8n&logoColor=EA4B71)
+
 **Security & Quality**<br>
 ![Semgrep (OWASP)](https://img.shields.io/badge/Semgrep%20%28OWASP%29-1b1530?style=flat-square&logo=owasp&logoColor=FFFFFF)
 ![Trivy](https://img.shields.io/badge/Trivy-1b1530?style=flat-square&logo=trivy&logoColor=FFFFFF)
