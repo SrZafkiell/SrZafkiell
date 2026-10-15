@@ -8,7 +8,7 @@
 
 **I speak Spanish (native) and English (C1).** This profile is in English; for the Spanish version, see my [LinkedIn](https://www.linkedin.com/in/srzafkiell/?locale=es-ES).
 
-I design and run the infrastructure behind production platforms, from architecture and API contracts down to networking: AWS, Amazon EKS, Azure, and on-prem Windows and Linux. 7+ years across backend, cloud architecture and DevOps, working end to end in Python, FastAPI, Django, PostgreSQL, SQL Server, Redis and Docker, from API design through CI/CD, monitoring and disaster recovery.
+I design and run the infrastructure behind production platforms, from architecture and API contracts down to networking: AWS, Amazon EKS, Azure, and on-prem Windows and Linux. 7+ years across backend, cloud architecture and DevOps, working end to end in Python, FastAPI, Django, PostgreSQL, SQL Server, Redis and Docker, from API design through CI/CD, monitoring and disaster recovery. I have led cross-functional engineering teams since my freelance years, and build in Java (Spring Boot) as well as Python.
 
 **Portfolio:** [srzafkiell.dev](https://srzafkiell.dev) | **LinkedIn:** [in/srzafkiell](https://www.linkedin.com/in/srzafkiell/) | **Email:** [contact@srzafkiell.dev](mailto:contact@srzafkiell.dev)
 
@@ -36,6 +36,7 @@ Open to remote full-time and contract roles.
 **Backend & Data**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-1b1530?style=flat-square&logo=fastapi&logoColor=009688)
 ![Django](https://img.shields.io/badge/Django-1b1530?style=flat-square&logo=django&logoColor=44B78B)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1b1530?style=flat-square)
 ![Celery](https://img.shields.io/badge/Celery-1b1530?style=flat-square&logo=celery&logoColor=37814A)
 ![Node.js](https://img.shields.io/badge/Node.js-1b1530?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 ![Express](https://img.shields.io/badge/Express-1b1530?style=flat-square&logo=express&logoColor=FFFFFF)
@@ -80,6 +81,10 @@ Open to remote full-time and contract roles.
 ![mypy](https://img.shields.io/badge/mypy-1b1530?style=flat-square)
 ![ESLint](https://img.shields.io/badge/ESLint-1b1530?style=flat-square&logo=eslint&logoColor=8080F2)
 ![Prettier](https://img.shields.io/badge/Prettier-1b1530?style=flat-square&logo=prettier&logoColor=F7B93E)
+![Wireshark](https://img.shields.io/badge/Wireshark-1b1530?style=flat-square&logo=wireshark&logoColor=1679A7)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-1b1530?style=flat-square)
+![nmap](https://img.shields.io/badge/nmap-1b1530?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-1b1530?style=flat-square&logo=metasploit&logoColor=FFFFFF)
 
 **AI-Assisted Development** (used daily; I keep up with new models)<br>
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-1b1530?style=flat-square&logo=claude&logoColor=D97757)
