@@ -16,7 +16,7 @@ Open to remote full-time and contract roles.
 
 ### Right now
 
-- **Technical Lead / System Architect at World Engineering Corp** (since Jun 2026, promoted from Backend Developer in six months). I own the architecture, API contracts and releases of a multi-tenant SaaS of nine FastAPI services on AWS (ECS Fargate, Cognito, SQS, CloudFront, PostgreSQL per service), and wrote 48 architecture decision records and 21 runbooks, enforced in GitHub Actions with AI code review (PR-Agent), Semgrep, Trivy and OpenAPI contract tests.
+- **Technical Lead / System Architect at World Engineering Corp** (since Jun 2026, promoted from Backend Developer in six months). I own the architecture, API contracts and releases of a multi-tenant SaaS of nine FastAPI services on AWS (ECS Fargate, Cognito, SQS, CloudFront, PostgreSQL per service), and wrote 45 architecture decision records and 21 runbooks, enforced in GitHub Actions with AI code review (PR-Agent), Semgrep, Trivy and OpenAPI contract tests.
 - **Junior Cloud Infrastructure Analyst at Magnetic** (since Sep 2026, after a six-month apprenticeship). I run over $13,000 per month of AWS across nine accounts, operate Amazon EKS in production, and lead a 5 TB MySQL cleanup projected to save $1,450 to $1,750 per month.
 - **Software Engineer / Platform Engineer at CheckPoint Business Intelligence** (since Sep 2025). Lead engineer of a multi-tenant access-control SaaS (FastAPI, SQL Server, React; 1,100+ commits): RFID ingestion at about 3,900 reads per second, live camera monitoring with latency cut from 10 s to 1-2 s, Prometheus, Alertmanager and Grafana monitoring, a three-node MongoDB replica set, a Redis Cluster grown from 3 to 6 nodes, and a hybrid disaster-recovery design with an Azure warm standby.
 
