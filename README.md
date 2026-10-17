@@ -109,9 +109,7 @@ Open to remote full-time and contract roles.
 ### Selected public work
 
 - **[scoutsuite-runner](https://github.com/SrZafkiell/scoutsuite-runner)**: reusable Docker runner for NCC Group ScoutSuite AWS security audits, with isolated read-only credentials and CSV, Markdown, JSON and HTML reports.
-- **[srzafkiell.dev](https://srzafkiell.dev)**: my terminal-themed portfolio (React + Vite), built and deployed to my own VPS with GitHub Actions.
-- **[wec-backend-technical-challenge](https://github.com/SrZafkiell/wec-backend-technical-challenge)**: my solution to the backend developer technical challenge at WEC (Python).
-- **[DentistOffice](https://github.com/SrZafkiell/DentistOffice)**: dental practice management system (Java).
-- **[SimpleSpawnpoints](https://github.com/SrZafkiell/SimpleSpawnpoints)**: Minecraft respawn-management plugin (Java).
+- **[srzafkiell.dev](https://srzafkiell.dev)**: my terminal-themed portfolio (React + Vite) with a case study for every project and animated walkthrough videos for the platform work, built and deployed to my own VPS with GitHub Actions.
+- **[wec-backend-technical-challenge](https://github.com/SrZafkiell/wec-backend-technical-challenge)**: my solution to the backend developer technical challenge at WEC: FastAPI with JWT roles and permissions, RFC 7807 errors, and all seven optional features.
 
 Most of my professional work lives in private company repositories, so little of it shows in the public activity here. My [portfolio](https://srzafkiell.dev) and [LinkedIn](https://www.linkedin.com/in/srzafkiell/) have the full picture.
