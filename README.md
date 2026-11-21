@@ -17,7 +17,7 @@ Open to remote full-time and contract roles.
 ### Right now
 
 - **Software Engineer / Platform Engineer at CheckPoint Business Intelligence** (since Sep 2025). Lead engineer of a multi-tenant access-control SaaS (FastAPI, SQL Server, React; 1,100+ commits): RFID ingestion at about 3,900 reads per second, live camera monitoring with latency cut from 10 s to 1-2 s, Prometheus, Alertmanager and Grafana monitoring, a three-node MongoDB replica set, a Redis Cluster grown from 3 to 6 nodes, a hybrid disaster-recovery design with an Azure warm standby, and the two-site SQL Server HA/DR plan.
-- **Junior Cloud Infrastructure Analyst at Magnetic** (since Sep 2026, after a six-month apprenticeship). I run over $13,000 per month of AWS across nine accounts, operate Amazon EKS in production, lead a 5 TB MySQL cleanup projected to save $1,450 to $1,750 per month, and led the company-wide PHP security response (an inventory of nine accounts, an emergency WAF, a 35-task plan).
+- **Junior Cloud Infrastructure Analyst at Magnetic** (since Sep 2026, after a six-month apprenticeship). I run over $18,000 per month of AWS across nine accounts, operate Amazon EKS in production, lead a 5 TB MySQL cleanup projected to save $1,450 to $1,750 per month, and led the company-wide PHP security response (an inventory of nine accounts, an emergency WAF, a 35-task plan).
 
 ### Before that
 
@@ -112,6 +112,7 @@ Open to remote full-time and contract roles.
 ### Selected public work
 
 - **[scoutsuite-runner](https://github.com/SrZafkiell/scoutsuite-runner)**: reusable Docker runner for NCC Group ScoutSuite AWS security audits, with isolated read-only credentials and CSV, Markdown, JSON and HTML reports.
+- **[identity-lab](https://github.com/SrZafkiell/identity-lab)**: building in public: a self-hosted identity and access platform planned as 14 modules, with 216 issues on a [public board](https://github.com/users/SrZafkiell/projects/1).
 - **[srzafkiell.dev](https://srzafkiell.dev)**: my terminal-themed portfolio (React + Vite) with case studies and animated walkthrough videos, built and deployed to my own VPS with GitHub Actions.
 
 Most of my professional work lives in private company repositories, so little of it shows in the public activity here. My [portfolio](https://srzafkiell.dev) and [LinkedIn](https://www.linkedin.com/in/srzafkiell/) have the full picture.
